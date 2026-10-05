@@ -1,33 +1,122 @@
 # Hi, I'm Zunaira 👋
 
-**SQA Engineer | Software Testing | UX Enthusiast**
+### Software Quality Assurance Engineer · UX Enthusiast · Product Thinker
 
-I’m a Software Quality Assurance Engineer interested in building
-reliable, user-friendly software and understanding how products
-work from both the technical and user perspective.
+I enjoy figuring out **how software should work, how it actually works, and where the two don't match.** 🔍
 
-### 🔍 What I work with
+I'm currently working in **Software Quality Assurance**, with hands-on experience testing web, mobile, and API-based products. I'm also exploring **test automation, UX, and business analysis** to better understand products from both the technical and user perspective.
 
-- 🧪 Manual Testing — Web, Mobile & API
-- 🔎 Functional, Regression & Integration Testing
-- 📮 Postman
-- 🎭 Playwright — currently learning
-- 🐛 Jira
-- 🎨 UX / Figma
+---
 
-### 🌱 Currently learning
+## 🧪 What I Do
 
-- Test Automation
-- Software Engineering
-- Business Analysis
-- UX & Product Thinking
+| Area                 | Experience                                              |
+| -------------------- | ------------------------------------------------------- |
+| 🔍 Manual Testing    | Functional · Regression · Integration · UAT             |
+| 🌐 Web Testing       | Feature validation · Cross-browser testing · Edge cases |
+| 📱 Mobile Testing    | Android · iOS                                           |
+| 🔌 API Testing       | Postman · Endpoints · Status codes · Error handling     |
+| 🐛 Defect Management | Jira · Bug reporting · Reproduction & verification      |
+| 🎭 Automation        | Playwright · JavaScript                                 |
+| 🎨 UX                | Figma · User-centered design                            |
 
-### 📌 Featured Projects
+---
 
-🔹 **Playwright Learning**  
-My journey learning automated web testing with Playwright.
+## 🎭 Currently Learning
 
+**Test Automation**
 
+I'm currently learning Playwright and building my understanding of:
 
-### 📫 Let's connect
-[LinkedIn](www.linkedin.com/in/zunaira-sultan)
+* Page Object Model
+* Locators & assertions
+* Test organization
+* End-to-end testing
+* Automated regression testing
+
+**Business Analysis & Product Thinking**
+
+I'm also interested in understanding:
+
+* Requirements analysis
+* User stories & acceptance criteria
+* Translating business needs into testable requirements
+* Collaboration between business, design, development & QA
+
+---
+
+## 🎨 My UX Side
+
+Before moving into QA, I developed an interest in **UX design and product thinking**.
+
+I completed the **Google UX Design Professional Certificate** and worked with tools such as Figma.
+
+I'm especially interested in the space where:
+
+> **Good requirements → good design → good engineering → good testing → good user experience**
+
+meet.
+
+---
+
+## 📂 Featured Projects
+
+### 🎭 Playwright Learning
+
+A hands-on repository documenting my journey into test automation with Playwright.
+
+**Focus:**
+`JavaScript` · `Playwright` · `End-to-End Testing` · `Page Object Model`
+
+[→ View repository](https://github.com/ZincSulphide/playwright-learning)
+
+---
+
+### 🧪 QA & Testing
+
+I'm gradually building projects that demonstrate different parts of the QA lifecycle—from understanding requirements and creating test scenarios to API testing, defect reporting, and automation.
+
+**Coming soon:** More testing projects, automation experiments, and QA documentation.
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Testing**
+
+`Manual Testing` `Functional Testing` `Regression Testing` `Integration Testing` `UAT` `API Testing`
+
+**Tools**
+
+`Jira` `Postman` `Playwright` `Figma` `Git` `GitHub`
+
+**Languages**
+
+`JavaScript` `C++` `SQL`
+
+---
+
+## 🌱 A Little More About Me
+
+* 🧪 I work in Software Quality Assurance
+* 🎭 Currently learning Playwright automation
+* 🎨 Interested in UX and product design
+* 📊 Exploring Business Analysis
+* 💻 Currently strengthening my software engineering fundamentals
+* ☕ Powered by curiosity and probably too many browser tabs
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/zunaira-sultan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Trying to build better software by asking better questions.</i>
+</p>
