@@ -110,7 +110,7 @@ I'm gradually building projects that demonstrate different parts of the QA lifec
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/zunaira-sultan">
+  <a href="https://www.linkedin.com/in/zunaira-sultan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
